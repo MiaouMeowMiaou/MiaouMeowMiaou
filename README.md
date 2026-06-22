@@ -1,7 +1,6 @@
 # The silly kitty give you my time
 
-<img src="https://itisareal.cat/cat-time.gif" alt="Bleeeh" width="100%"/>
-
+![Horloge en temps réel](https://itisareal.cat/cat-time.gif?v=1)
 
 
 
