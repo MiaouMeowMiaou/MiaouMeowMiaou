@@ -32,7 +32,7 @@
   <a href="https://itisareal.cat/">
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.com/users/elchagnon">
+  <a href="https://discord.com/users/640313466607108136">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/MiaouMeowMiaou">
